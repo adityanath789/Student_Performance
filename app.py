@@ -1,21 +1,4 @@
-<<<<<<< HEAD
-# Student Performance 
-This project analyzes student performance data to identify factors that affect academic success.
-It includes data preprocessing, visualization and predictive modelingusing Python.
 
-## Features
-  - Data cleaning and transformation
-  - Exploratory data analysis (EDA)
-  - Machine Learning model for performance prediction
-  - Visualization of key insights
-
-## Technologies Used
-- Python
-- Pandas
-- Numpy
-- Matplotlib
-- Scikit-learn
-=======
 import streamlit as st
 import pandas as pd
 import joblib
@@ -1140,4 +1123,4 @@ elif page == "ℹ️ About Project":
         "🚀 Student Performance Prediction System"
         " is ready!"
     )
->>>>>>> 1f68b0e (Initial commit)
+

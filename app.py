@@ -1123,4 +1123,4 @@ elif page == "ℹ️ About Project":
         "🚀 Student Performance Prediction System"
         " is ready!"
     )
->>>>>>> 1f68b0e (Initial commit)
+

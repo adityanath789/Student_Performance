@@ -36,13 +36,13 @@ MODEL_PATH = os.path.join(
 
 HISTORY_PATH = os.path.join(
     BASE_DIR,
-    "reports",
+    "Reports",
     "prediction_history.csv"
 )
 
 MODEL_RESULTS_PATH = os.path.join(
     BASE_DIR,
-    "reports",
+    "Reports",
     "model_comparison.csv"
 )
 

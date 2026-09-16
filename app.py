@@ -1335,7 +1335,7 @@ elif page == "ℹ️ About Project":
     st.subheader(
         "⚙️ Technology Used"
     )
-
+    
 
     st.write(
         """
@@ -1360,3 +1360,4 @@ elif page == "ℹ️ About Project":
     st.success(
         "🚀 Student Performance Prediction System is ready!"
     )
+
